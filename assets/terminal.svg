@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="338" viewBox="0 0 720 338" role="img" aria-label="Terminal: whoami, Nicolás González Muñoz">
+  <style>
+    text { font: 15px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #c9d1d9; white-space: pre; }
+    .u { fill: #7ee787; font-weight: 600; }
+    .p { fill: #79c0ff; font-weight: 600; }
+    .m { fill: #8b949e; }
+    .d { fill: #79c0ff; font-weight: 600; }
+    .bar { font: 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .ln, .k { opacity: 0; animation: show .01s linear forwards; }
+    .cur { fill: #c9d1d9; animation: blink 1.1s step-end infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="719" height="337" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M12.5 0.5 H707.5 A12 12 0 0 1 719.5 12.5 V36 H0.5 V12.5 A12 12 0 0 1 12.5 0.5 Z" fill="#161b22"/>
+  <line x1="0.5" y1="36" x2="719.5" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="360" y="23" text-anchor="middle" class="bar">nicolas@alcores: ~</text>
+  <text x="24" y="70" class="ln" style="animation-delay:0.600s" xml:space="preserve"><tspan class="u">nicolas@alcores</tspan><tspan class="m">:</tspan><tspan class="p">~</tspan><tspan class="m">$ </tspan><tspan class="k" style="animation-delay:0.850s">w</tspan><tspan class="k" style="animation-delay:0.925s">h</tspan><tspan class="k" style="animation-delay:1.000s">o</tspan><tspan class="k" style="animation-delay:1.075s">a</tspan><tspan class="k" style="animation-delay:1.150s">m</tspan><tspan class="k" style="animation-delay:1.225s">i</tspan></text>
+  <text x="24" y="96" class="ln" style="animation-delay:1.750s" xml:space="preserve">Nicolás González Muñoz · Sevilla</text>
+  <text x="24" y="122" class="ln" style="animation-delay:1.870s" xml:space="preserve"><tspan class="u">nicolas@alcores</tspan><tspan class="m">:</tspan><tspan class="p">~</tspan><tspan class="m">$ </tspan><tspan class="k" style="animation-delay:2.120s">c</tspan><tspan class="k" style="animation-delay:2.195s">a</tspan><tspan class="k" style="animation-delay:2.270s">t</tspan><tspan class="k" style="animation-delay:2.345s"> </tspan><tspan class="k" style="animation-delay:2.420s">a</tspan><tspan class="k" style="animation-delay:2.495s">h</tspan><tspan class="k" style="animation-delay:2.570s">o</tspan><tspan class="k" style="animation-delay:2.645s">r</tspan><tspan class="k" style="animation-delay:2.720s">a</tspan><tspan class="k" style="animation-delay:2.795s">.</tspan><tspan class="k" style="animation-delay:2.870s">t</tspan><tspan class="k" style="animation-delay:2.945s">x</tspan><tspan class="k" style="animation-delay:3.020s">t</tspan></text>
+  <text x="24" y="148" class="ln" style="animation-delay:3.545s" xml:space="preserve">Desarrollador web en Bastilipo desde marzo de 2025</text>
+  <text x="24" y="174" class="ln" style="animation-delay:3.665s" xml:space="preserve">Estudiando DAW en el IES Los Alcores (2025 - 2027)</text>
+  <text x="24" y="200" class="ln" style="animation-delay:3.785s" xml:space="preserve"><tspan class="u">nicolas@alcores</tspan><tspan class="m">:</tspan><tspan class="p">~</tspan><tspan class="m">$ </tspan><tspan class="k" style="animation-delay:4.035s">l</tspan><tspan class="k" style="animation-delay:4.110s">s</tspan><tspan class="k" style="animation-delay:4.185s"> </tspan><tspan class="k" style="animation-delay:4.260s">p</tspan><tspan class="k" style="animation-delay:4.335s">r</tspan><tspan class="k" style="animation-delay:4.410s">o</tspan><tspan class="k" style="animation-delay:4.485s">y</tspan><tspan class="k" style="animation-delay:4.560s">e</tspan><tspan class="k" style="animation-delay:4.635s">c</tspan><tspan class="k" style="animation-delay:4.710s">t</tspan><tspan class="k" style="animation-delay:4.785s">o</tspan><tspan class="k" style="animation-delay:4.860s">s</tspan><tspan class="k" style="animation-delay:4.935s">/</tspan></text>
+  <text x="24" y="226" class="ln" style="animation-delay:5.460s" xml:space="preserve"><tspan class="d">league_of_legends</tspan>  <tspan class="d">app-lol</tspan>  <tspan class="d">Api_products</tspan>  <tspan class="d">ActBaseDatos</tspan></text>
+  <text x="24" y="252" class="ln" style="animation-delay:5.580s" xml:space="preserve"><tspan class="u">nicolas@alcores</tspan><tspan class="m">:</tspan><tspan class="p">~</tspan><tspan class="m">$ </tspan><tspan class="k" style="animation-delay:5.830s">l</tspan><tspan class="k" style="animation-delay:5.905s">s</tspan><tspan class="k" style="animation-delay:5.980s"> </tspan><tspan class="k" style="animation-delay:6.055s">t</tspan><tspan class="k" style="animation-delay:6.130s">i</tspan><tspan class="k" style="animation-delay:6.205s">e</tspan><tspan class="k" style="animation-delay:6.280s">n</tspan><tspan class="k" style="animation-delay:6.355s">d</tspan><tspan class="k" style="animation-delay:6.430s">a</tspan><tspan class="k" style="animation-delay:6.505s">s</tspan><tspan class="k" style="animation-delay:6.580s">/</tspan></text>
+  <text x="24" y="278" class="ln" style="animation-delay:7.105s" xml:space="preserve">electro-outlet.net  circuitobebe.com  urende.com.es  bastilipo.es</text>
+  <text x="24" y="304" class="ln" style="animation-delay:7.525s" xml:space="preserve"><tspan class="u">nicolas@alcores</tspan><tspan class="m">:</tspan><tspan class="p">~</tspan><tspan class="m">$ </tspan><tspan class="cur">█</tspan></text>
+</svg>
