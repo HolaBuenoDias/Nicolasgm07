@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="44" viewBox="0 0 135 44" role="img" aria-label="Ir a Proyectos" fill="none"><title>Ir a Proyectos</title><desc>Botón de navegación: ir a la sección «Proyectos» del perfil.</desc><style>
+text{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue','Noto Sans',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code','SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.rise{animation:rise .75s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}}
+.fade{animation:fade .9s ease backwards}
+@keyframes fade{from{opacity:0}}
+.pop{animation:pop .6s cubic-bezier(.2,1.5,.4,1) backwards;transform-box:fill-box;transform-origin:center}
+@keyframes pop{from{opacity:0;transform:scale(.6)}}
+.slide{animation:slide .8s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes slide{from{opacity:0;transform:translateX(-16px)}}
+.draw{stroke-dasharray:1;animation:draw 1.4s cubic-bezier(.2,.8,.2,1) backwards}
+@keyframes draw{from{stroke-dashoffset:1}}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+.ping{animation:ping 2.2s cubic-bezier(0,0,.2,1) infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ping{0%{opacity:.7;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.6)}}
+.float{animation:float 6s ease-in-out infinite}
+@keyframes float{50%{transform:translateY(-7px)}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+.nin{animation:nin .6s cubic-bezier(.2,.8,.2,1) backwards}@keyframes nin{from{opacity:0;transform:translateY(5px)}}</style><defs></defs><g class="nin" style="animation-delay:0.25s"><rect x="2.5" y="2.5" width="130" height="39" rx="19.5" fill="#161b22" stroke="#30363d" stroke-width="1" /><g transform="translate(18 13) scale(0.75)" fill="none" stroke="#FF7A45" stroke-width="2.67" stroke-linecap="round" stroke-linejoin="round" color="#FF7A45" ><path d="M8 7l-5 5 5 5"/><path d="M16 7l5 5-5 5"/><path d="M13.5 4l-3 16"/></g><text x="44" y="27.3" font-size="15" font-weight="600" fill="#e6edf3">Proyectos</text></g></svg>
